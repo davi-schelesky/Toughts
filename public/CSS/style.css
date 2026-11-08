@@ -211,6 +211,7 @@ form input[type="submit"]:hover, .btn:hover {
 .home-header input {
     background-color: transparent;
     border: none;
+    outline: none;
     border-bottom: 1px solid #FFF;
     padding: .5em;
     margin-right: 1em;
